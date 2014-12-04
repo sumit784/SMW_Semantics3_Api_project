@@ -1,4 +1,4 @@
-package com.semantic;
+package com.semantics3.utils;
 
 import java.io.IOException;
 import java.util.ArrayList;

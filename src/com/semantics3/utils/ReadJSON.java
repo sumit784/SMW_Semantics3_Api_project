@@ -1,4 +1,4 @@
-package com.semantic;
+package com.semantics3.utils;
 
 import java.io.File;
 import java.util.ArrayList;
